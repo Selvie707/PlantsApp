@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">My Application</string>
+    <string name="signup_text"><b>Don\'t have an account? <u><font color='#1C6758'>Sign Up</font></u></b></string>
+    <string name="teamOfUse"><font color='#2C5134'>By signing you agree to our </font><font color='#BABABA'>Team of use</font></string>
+    <string name="privacyNotice"><font color='#2C5134'>and</font> <font color='#BABABA'>privacy notice</font></string>
+    <string name="loginRegister"><font color='#BABABA'>Have an account?</font> <font color='#2C5134'><u>Login</u></font></string>
+</resources>
